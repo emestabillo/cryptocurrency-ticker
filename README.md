@@ -2,6 +2,8 @@
 
 A React app which returns the current value of Bitcoin, Ethereum, and Litecoin using the <a href="coinmarketcap.com">coinmarketcap.com</a> API.
 
+![emestabillo-cryptocurrency-ticker](public/cryptocurrency.png)
+
 ## Installation
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
