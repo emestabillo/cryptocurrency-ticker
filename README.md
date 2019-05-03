@@ -1,6 +1,6 @@
 # Cryptocurrency Ticker
 
-A React app which returns the current value of Bitcoin, Ethereum, and Litecoin using the <a href="coinmarketcap.com">coinmarketcap.com</a> API.
+A React app which returns the current value of Bitcoin, Ethereum, and Litecoin using the <a href="https://coinmarketcap.com">coinmarketcap.com</a> API.
 
 ![emestabillo-cryptocurrency-ticker](public/cryptocurrency.png)
 
